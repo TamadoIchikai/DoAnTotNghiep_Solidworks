@@ -1,0 +1,22 @@
+# SolidWorks temporary lock files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.sld
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+~$*.SLD
+
+# Generic temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Windows Explorer junk
+Thumbs.db
+Desktop.ini
+
+# macOS junk, harmless if you sync across OS
+.DS_Store
